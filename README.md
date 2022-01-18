@@ -1,4 +1,8 @@
 
+## CLI tools
+
+### tree
+brew install tree
 
 ### bat
 It's like cat but fancier [bat on Github](https://github.com/sharkdp/bat)
@@ -15,9 +19,9 @@ when I want to use a command line tools quickly without reading all the man page
 
 
 
-### Mac tools
+## Mac tools
 - [Espanso](https://espanso.org) -  awesome text expander
 
 - [Alfred](https://www.alfredapp.com/) - productivity app
 
-
+- [Spectacle](https://www.spectacleapp.com/) - keyboard shortcuts to arrage windows
