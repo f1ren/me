@@ -1,21 +1,13 @@
 
 ## CLI tools
 
-### tree
-brew install tree
-
-### bat
-It's like cat but fancier [bat on Github](https://github.com/sharkdp/bat)
-
-### z
-I use it all the time when jumping from directory to directory
-[z on Github](https://github.com/rupa/z) 
-
-### ag
-when I want to find something in a large code base
-
-### tldr
-when I want to use a command line tools quickly without reading all the man page:
+| tool | description | installation |
+|-|-|-|
+| tree | show directory tree | `brew install tree` |
+| bat | like cat but fancier | [bat on Github](https://github.com/sharkdp/bat) |
+| z | quick jump to common directory | [z on Github](https://github.com/rupa/z) |
+| ag | find in large code base | [z on Github](https://github.com/rupa/z) |
+| tldr | command line tools quickly without reading all the man page |
 
 
 
